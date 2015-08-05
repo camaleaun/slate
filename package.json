@@ -3,7 +3,9 @@
   "version": "1.2.0",
   "description": "Beautiful static documentation for your API",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/tripit/slate.git"
