@@ -1,0 +1,20 @@
+{
+  "name": "Slate",
+  "version": "1.2.0",
+  "description": "Beautiful static documentation for your API",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tripit/slate.git"
+  },
+  "keywords": [
+    "Slate"
+  ],
+  "author": "Robert Lord <hello@lord.io> (https://lord.io/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tripit/slate/issues"
+  },
+  "homepage": "https://github.com/tripit/slate"
+}
